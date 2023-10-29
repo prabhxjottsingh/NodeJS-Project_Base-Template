@@ -1,0 +1,15 @@
+{timestamp} : [undefined] : info: {message}
+{timestamp} : [undefined] : info: {message}
+{timestamp} : [undefined] : info: {message}
+{timestamp}:[undefined] : info: {message}
+{timestamp}:[undefined]:info: {message}
+{timestamp}:[undefined]:info:{message}
+2023-10-29 22:52:49:[undefined]:info:{message}
+2023-10-29 22:52:54:[undefined]:info:Successfully started the server
+2023-10-29 22:52:57 : [undefined]:info:Successfully started the server
+2023-10-29 22:52:59 : [undefined] : info:Successfully started the server
+2023-10-29 22:53:01 : [undefined] : info : Successfully started the server
+2023-10-29 22:53:31 : : info : Successfully started the server
+2023-10-29 22:53:33: info : Successfully started the server
+2023-10-29 22:53:51 : [undefined] : info : Successfully started the server
+2023-10-29 22:54:19 : [undefined] : info : Successfully started the server
